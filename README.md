@@ -32,4 +32,4 @@ hotstar-project/
 3. Double-click **index.html** → It will open in your browser.
 
 ## 📧 Contact
-Created by: **Aishwarya**
+Created by: **Keerthi**
